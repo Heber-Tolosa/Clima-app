@@ -15,6 +15,9 @@
   font-weight: 400;
   border-radius: 1rem;
 }
+.form option {
+  color: var(--primary);
+}
 
 .field ::placeholder {
   color: var(--white);
